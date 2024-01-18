@@ -1,12 +1,8 @@
-# this App
-
-Classic ToDo App
-
 ## Getting Started
 - Flutter pub get
 - Flutter run
 
-# ToDo App
+## ToDo App
 
 ![List task](https://github.com/DouglasAzevedo/todo_app/blob/master/images/image-1.png)
 
